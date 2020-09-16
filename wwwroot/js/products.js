@@ -1,5 +1,5 @@
 ﻿$(function () {
-	$.getJSON("../data.json", function (data) {
+	$.getJSON("./data.json", function (data) {
 		var items = [];
 		$.each(data.products, function (index, product) {
 			items.push("<div class='row'>"
