@@ -1,0 +1,12 @@
+﻿ul.nav {
+	list-style: none;
+	li {
+		float: left;
+		padding: 0 20px;
+		text-transform: uppercase;
+
+		&:first-child {
+			padding-left: 0;
+		}
+	}
+}

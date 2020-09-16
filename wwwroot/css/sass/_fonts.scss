@@ -1,0 +1,28 @@
+﻿html {
+	color: $default-color;
+	font-size: 16px;
+}
+a{
+	color: $default-color;
+}
+.logo {
+	font-size: xx-large;
+	font-weight: 700;
+	margin: 10px 0 20px 0;
+	a {
+		text-decoration: none;
+	}
+}
+
+footer.navbar-dark {
+	color: $header-footer-color;
+
+	a {
+		color: $header-footer-color;
+		text-decoration: none;
+	}
+}
+
+.small-font {
+	font-size: xx-small;
+}

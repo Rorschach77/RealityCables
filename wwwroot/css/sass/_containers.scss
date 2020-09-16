@@ -1,0 +1,32 @@
+﻿* {
+	margin: 0;
+}
+
+body {
+	background-image: url("/images/sound-wave-equalizer.jpg");
+	background-size: contain;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: $default-color;
+	padding-top: 50px; /* needed for fixed-top navbar */
+	margin-bottom: 75px; /* should be greater than or equal to footer height */
+}
+
+main {
+	background-color: $main-background-color;
+	padding-top: 20px;
+}
+
+.center {
+	text-align: center;
+}
+
+footer.navbar {
+	justify-content: center;
+}
+
+.flex-break {
+	flex-basis: 100%;
+	height: 0;
+}

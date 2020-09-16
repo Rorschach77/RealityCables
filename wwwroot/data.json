@@ -1,0 +1,24 @@
+{
+	"products": [
+		{
+			"name": "Vampire Oxygen Free Copper RCA Connectors",
+			"description": "world",
+			"category": "",
+			"base": {
+				"price": 260.00,
+				"length": 3,
+				"unit": "pair"
+			},
+			"unit": {
+				"price": 15.00,
+				"length": 1,
+				"unit": "foot"
+			}
+			"basePrice": 15.95,
+			"baseLength": 3,
+			"unitPrice": 3,
+			"unitLength":  1,
+			"image": "/images/reality_003_edited.jpg"
+		}
+	]
+}
