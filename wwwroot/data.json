@@ -18,7 +18,7 @@
 			"baseLength": 3,
 			"unitPrice": 3,
 			"unitLength":  1,
-			"image": "/images/reality_003_edited.jpg"
+			"image": "./images/reality_003_edited.jpg"
 		}
 	]
 }
