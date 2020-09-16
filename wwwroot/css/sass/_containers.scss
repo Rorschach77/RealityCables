@@ -2,6 +2,10 @@
 	margin: 0;
 }
 
+html {
+	height: 100%;
+}
+
 body {
 	background-image: url("../../images/sound-wave-equalizer.jpg");
 	background-size: contain;
@@ -9,12 +13,18 @@ body {
 	background-repeat: no-repeat;
 	background-position: center;
 	color: $default-color;
+	height: 100%;
 	padding-top: 50px; /* needed for fixed-top navbar */
-	margin-bottom: 75px; /* should be greater than or equal to footer height */
+	margin-bottom: -65px; /* should be greater than or equal to footer height */
+
+	.wrapper {
+		height: 100%;
+	}
 }
 
 main {
 	background-color: $main-background-color;
+	height: 100%;
 	padding-top: 20px;
 }
 

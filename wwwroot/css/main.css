@@ -29,6 +29,9 @@ footer.navbar-dark {
 * {
   margin: 0; }
 
+html {
+  height: 100%; }
+
 body {
   background-image: url("../images/sound-wave-equalizer.jpg");
   background-size: contain;
@@ -36,13 +39,17 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   color: #111;
+  height: 100%;
   padding-top: 50px;
   /* needed for fixed-top navbar */
-  margin-bottom: 75px;
+  margin-bottom: -65px;
   /* should be greater than or equal to footer height */ }
+  body .wrapper {
+    height: 100%; }
 
 main {
   background-color: rgba(255, 255, 255, 0.8);
+  height: 100%;
   padding-top: 20px; }
 
 .center {
