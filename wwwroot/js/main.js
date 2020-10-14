@@ -3,5 +3,14 @@
 
 // Write your JavaScript code.
 $(function () {
-	$(".current-year").html(new Date().getFullYear());
+	$("header").load("../templates/_header.html", function () {
+		if (activateNav !== undefined) {
+			activateNav();
+		}
+	});
+	$("footer").load("../templates/_footer.html", function () {
+		$(".current-year").html(new Date().getFullYear());
+	});
 });
+
+activateNav = () => { $(".nav-link-home").addClass("active"); };

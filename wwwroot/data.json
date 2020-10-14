@@ -2,23 +2,35 @@
 	"products": [
 		{
 			"name": "Vampire Oxygen Free Copper RCA Connectors",
-			"description": "world",
-			"category": "",
+			"description": "Provide a description of the product",
+			"category": "Interconnect",
 			"base": {
 				"price": 260.00,
 				"length": 3,
-				"unit": "pair"
+				"unit": "foot pair"
 			},
 			"unit": {
 				"price": 15.00,
 				"length": 1,
 				"unit": "foot"
 			},
-			"basePrice": 15.95,
-			"baseLength": 3,
-			"unitPrice": 3,
-			"unitLength":  1,
 			"image": "./images/reality_003_edited.jpg"
+		},
+		{
+			"name": "REDESIGNED XLR Balanced Interconnect",
+			"description": "Provide a description of the product",
+			"category": "Interconnect",
+			"base": {
+				"price": 285.00,
+				"length": 3,
+				"unit": "foot pair"
+			},
+			"unit": {
+				"price": 20.00,
+				"length": 1,
+				"unit": "foot"
+			},
+			"image": "./images/reality_002_edited.jpg"
 		}
 	]
 }
