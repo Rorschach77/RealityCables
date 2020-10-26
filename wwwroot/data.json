@@ -32,5 +32,97 @@
 			},
 			"image": "./images/reality_002_edited.jpg"
 		}
+	],
+	"testimonials": [
+		{
+			"reviewer": "Martin R.",
+			"location": "Michigan",
+			"testimonial": "I wanted you to know that I have been an audiophile for 35 years and after trying a myriad of speaker cables (started off with Polk Audio Sound Cables in the 70's) - I prefer your cables hands down. Last year, I purchased a pair of your speaker cables and really liked them... but another audiophile suggested that I try Morrow cables. I did, and they didn't come close to the sound quality of your cables. I learned my lesson... I'm now and will be a loyal Reality Cables customer!"
+		},
+		{
+			"reviewer": "Dennis W.",
+			"location": "Vancouver, B.C. Canada",
+			"testimonial": "I grow more impressed with the speaker wire each day. Extremely revealing, treble is superb, as is dynamics. There is no particular frequency that is exaggerated. Piano is particularly good. Very-good to excellent soundstage depth and width. Very impressive."
+		},
+		{
+			"reviewer": "Chris N.",
+			"location": "Rock Hill, MO",
+			"testimonial": "Everything I listened to last night was so clear, detailed & natural. It's as if the top end picked up more upper frequency, and delicacy. Plus added clarity across the entire range too.<br/>Thanks again- this has been the biggest difference I've heard yet in any cable I've installed."
+		},
+		{
+			"reviewer": "Gary P.",
+			"location": "Chicago, IL",
+			"testimonial": "I do believe they could kick some high $$$ cables right in the BALLS!!"
+		},
+		{
+			"reviewer": "Peter D.",
+			"location": "Canada",
+			"testimonial": "Well, finally got my brother to try the cables. He has removed his Cardas Golden Ref speaker wire. Fantastic, like Mikey says, I'll take 'em."
+		},
+		{
+			"reviewer": "Steve W.",
+			"location": "New Jersey",
+			"testimonial": "I was using the Mapleshade Excalibor PLUS interconnects and a double run of Nordost Super Flatwire. The Reality Cables blew away the Mapleshade Excalibor and the Nordost.<br/>When I put the Reality Cables' wires into my system, my listening life changed for the better. I mean, I now hear more of the music. I hear the air in the recording venue, and more of the decay of the instruments. The music is much more life like. The imaging is rock solid and has good depth. Each instrument is more focused and detailed, but nothing is more prominent than anything else. Just real life like music."
+		},
+		{
+			"reviewer": "Flavio L.",
+			"location": "Vancouver, B.C. Canada",
+			"testimonial": "The ICs are great! Sort of the same effect as when I tried the Audio magic Stealth - quieter background, firmer bass, less grainy highs, more immediate & richer midrange, more relaxed sound overall - and that was on CDs. Very, very nice."
+		}
+	],
+	"news": [
+		{
+			"title": "Now introducing our Reference Line of speaker cables and interconnects",
+			"body": "<a href='tel:8477022620'>Call for details</a>",
+			"image": ""
+		},
+		{
+			"title": "<i>Reality Cables</i> now has a Power Cord",
+			"body": "After many years we have finally developed a power cord that can proudly carry the <i>Reality Cables</i> name on it. <i>Reality Cables</i> over the years has come to symbolize some of the best sounding cables that money can buy regardless of cost for a reasonable price. We have compared this cord to many others and feel that it will compete with other cords costing many times its price. We have found that a good number of power cords can sound really good powering your amp but if you put the same cord in your cd player or preamp it could sound less than desirable. We feel that our cord sounds great with almost all equipment.",
+			"image": "./images/p4210193.jpg"
+		},
+		{
+			"title": "<i>Reality Cables</i> now has a Speakon cable for subwoofers",
+			"body": "Following in the tradition or our world class speaker cables we have developed a Speakon cable for Rel Acoustics and MJ Acoustics subwoofers",
+			"image": "./images/speakon_cable.jpg"
+		}
+	],
+	"faq": [
+		{
+			"title": "How do your cables differ in sound as compared to other \"recommended cables\"?",
+			"body": "The most immediate sound differentiation our cables have is the ability to preserve the space in the sound stage quite a bit better than other cable designs. The preservation of space and sound field cues requires the cable design to pass through the absolute smallest details. This is where most other cable designs fail and ours shine (in our opinion of course). Our cable also is very coherent and balanced from top to bottom with no emphasis or filtering of any of the frequency registers. In terms of dynamics, we have yet to hear another cable design that exceeds the Reality Cables line. It's all about getting the wire \"out of the way\" and this is what our cable does much better than most designs."
+		},
+		{
+			"title": "Are your cables cryo-treated?",
+			"body": "Yes, we cryo-treat every cable in a unique double immersion process that we developed through extensive listen tests. We actually determined 7 years ago that cryo-treating cables was a significant improvement."
+		},
+		{
+			"title": "How much break in time do your cables need?",
+			"body": "Our cables are mostly broken in when you receive them. We use a proprietary break in technique on the RCA and XLR balanced interconnects. When you receive them they will already have 120 hours of our proprietary break in. The speaker cables uses a different type of proprietary break in technique and will have over 60 hours on them. All cables will require about 48 hours of time on your system to become fully acclimated to your system. Very few other cable manufactures that we know of do any type of break in on their cables. This is one of the reasons that our cables out perform other high end cables regardless of cost."
+		},
+		{
+			"title": "What is the \"proprietary secret copper material\" that you use in your cable design?",
+			"body": "We call it \"secret for a reason. All that we will say is that it is much better than your typical \"six-nines\" or \"single crystal\" types of copper. It also is superior sounding to any silver wire conductors that we investigated too. This is one of our many secrets and we don't plan on letting the \"cat out of the bag\" any time soon. Sorry."
+		},
+		{
+			"title": "Why don't your cables use connectors like WBT for instance?",
+			"body": "The entire cable is taken into account to produce the clearest signal path from one end to the other. In our quest to develop the most real sounding cable, we found that the connectors played a big part in how much information the wire would transmit. <br/> Unfortunately, we found that most of the big name connectors hindered our cable's absolute performance capabilities. In the end, we had our own proprietary ends custom made based solely on how they sound (not how they look). We are able to offer WBT's, Eichmen Bullet Plug's, Cardas's etc., though if you prefer that type of connector we will not guarantee that the cable will be nearly as good as our current design. Those are the connectors that most other high end cable companies use. We are also offering Vampire's oxygen free copper connectors which we feel (after cryo freezing) are the best money can buy."
+		},
+		{
+			"title": "Why haven't you submitted your cables to a magazine like Absolute Sound or Stereophile?",
+			"body": "Magazine like Stereophile and Absolute Sound require you to advertise with them for about 6 months before they review your products. The monies that would be required to spend on advertising for a future review would substantially increase the cost of our cables. We felt that by offering a 20 day money back guarantee and allowing you to listen to the cables yourself, that you could hear what our cables can do in <b>YOUR</b> system and not a reviewers system."
+		},
+		{
+			"title": "How does your 20 day money back guarantee work?",
+			"body": "We offer a 20 day money back guarantee on 3 foot and 6 foot interconnects. We also offer the same 20 day money back guarantee on 8, 12 and 16 foot speaker cables. Less shipping. <br/><br/> Note: Money back guarantee only applies with standard spade lugs and no sleeving. We will provide a money back guarantee with bananas or other types of spade lugs but there will be a $50.00 re-termination fee. We will give you a money back guarantee on cables  with sleeving but will not credit the cost of the sleeving."
+		},
+		{
+			"title": "Why do you not put sleeving over your cables?",
+			"body": "In listening tests we determined that the black or colored sleeving that other cables manufactures use degrades the sound of the our cables. We heard a collapsing of the soundstage as compared to no sleeving at all. Also, by not using the sleeving it helps us keep the cost down so that we can provide you with reference caliber cables at near entry level pricing. We will put sleeving on if you ask. Our feeling is that the cotton sleeving does the least amount of damage to the sound. We only recommend the black sleeving if you require it for cosmetic reasons."
+		},
+		{
+			"title": "Do you prefer spade lugs or banana plugs?",
+			"body": "For the best sound we prefer spades lugs. When designing our speaker cables we did numerous listening tests with different brands of spade lugs and banana plugs. We discovered that with speakers and amplifiers that use a 5 way binding post the worst sounding spades still sounded better than the best sounding banana plug. We then listened to speakers like Magnapans that use a banana connection. In that case where you cannot use a spade lug, the banana plugs are the best sounding for that application. We do realize that banana plugs are much easier to connect but if you want the best sound our cables can provide the spade lugs that we selected for our speaker cables are the best way to go."
+		}
 	]
 }
