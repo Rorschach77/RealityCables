@@ -17,6 +17,10 @@ html {
   .logo a {
     text-decoration: none; }
 
+h1.home-title {
+  font-family: "Bookman Old Style";
+  color: #cc0033; }
+
 footer.navbar-dark {
   color: #eee; }
   footer.navbar-dark a {
@@ -70,3 +74,6 @@ ul.nav {
 .navbar-brand {
   font-family: 'Bookman Old Style';
   font-size: 1.5rem; }
+
+.navbar-dark .navbar-brand {
+  color: #cc0033; }
